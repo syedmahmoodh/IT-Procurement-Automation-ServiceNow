@@ -1,4 +1,4 @@
-# Phase 3: Project Design Phase
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5873d87d-fafd-4adb-ada0-bbc45dbc2607" /># Phase 3: Project Design Phase
 
 **Team ID:** SWTID-2026-4746  
 **Project Title:** Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer  
@@ -12,3 +12,13 @@
 4. **Approval Logic:** The flow requests authorization from the designated approver.
 5. **Execution:** Upon approval, the Flow Logic executes a "Create Catalog Task" action.
 6. **Fulfillment:** A Catalog Task (SCTASK) is automatically generated with the short description "Laptop need to Configured" and routed directly to the "Hardware" assignment group.
+
+## System Flowchart
+
+```mermaid
+graph TD
+    A[End-User: Selects 'Standard Laptop' in Service Catalog] --> B[Submission: Generates REQ & RITM]
+    B --> C{Flow Designer Triggered}
+    C --> D[Approval Logic: Manager Authorization]
+    D -- Approved --> E[Action: Create Catalog Task]
+    E --> F[Fulfillment: SCTASK routed to Hardware Group]
