@@ -12,4 +12,13 @@
 4. Navigated to the generated Requested Item (RITM) and verified the Catalog Tasks section.
 5. **Validation Success:** Confirmed the SCTASK was successfully generated, assigned to the Hardware group, and contained the correct short description ("Laptop need to Configured").
 
-*(Note to Team: Ensure screenshots of the Order Status screen, the Approval screen, and the final generated Catalog Task record are uploaded to this folder alongside this file).*
+## Testing Evidence
+
+**Screenshot 1: Order Status**
+![Order Status](Screenshot%202026-09-25%20230240.png)
+
+**Screenshot 2: Request Approval**
+![Request Approval](Screenshot%202026-09-25%20230607.png)
+
+**Screenshot 3: Catalog Task Validation**
+![Catalog Task Validation](Screenshot%202026-09-25%20230813.png)
