@@ -1,8 +1,8 @@
 # Phase 3: Project Design Phase
 
-**Team ID:** SWTID-2026-4746
-**Project Title:** Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer
-**Phase:** Phase 3 - Project Design Phase
+**Team ID:** SWTID-2026-4746  
+**Project Title:** Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer  
+**Phase:** Phase 3 - Project Design Phase  
 **Team Members:** Syed Mahmoodh J S (Team Leader & GitHub Repository Owner), Shaheen A, Mohammed Arshad M, Shenil X, Jenish R
 
 ## Workflow Architecture
