@@ -1,6 +1,6 @@
 # Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer
 
-**Team ID:** SWTID-2026-4746
+**Team ID:** SWTID-2026-4746  
 **Platform:** ServiceNow (Flow Designer & Service Catalog)
 
 ## Project Overview
