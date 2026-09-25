@@ -1,7 +1,7 @@
 # Phase 1: Brainstorming & Ideation Phase
 
-**Team ID:** SWTID-2026-4746
-**Project Title:** Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer
+**Team ID:** SWTID-2026-4746  
+**Project Title:** Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer  
 **Phase:** Phase 1 - Brainstorming & Ideation Phase
 
 ## Overview
